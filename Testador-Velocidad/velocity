@@ -44,7 +44,7 @@ speedtest --share > speed
 echo ""
 clear
 echo -e "\033[0;34m======================================================\033[0m"
-echo -e " \033[1;33mSpeed Test \033[1;32m[NEW-ADM] \033[0m"
+echo -e " \033[1;33mSpeed Test \033[1;32m[VELOCITY] \033[0m"
 echo -e "\033[0;34m======================================================\033[0m"
 echo -e "   \033[1;32mTESTANDO A VELOCIDADE DO SERVIDOR !\033[0m"
 echo ""

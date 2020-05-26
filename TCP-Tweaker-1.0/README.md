@@ -7,6 +7,8 @@ Comandos para executar:
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/TCP-Tweaker-1.0/tcptweaker.sh; chmod +x tcptweaker.sh; ./tcptweaker.sh
 
+-------------------------------------------------------------------------------
+
 ```
 * SIN MINERIA! 
 * SIN KEYS! 

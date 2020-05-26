@@ -15,6 +15,8 @@ Comandos para instalar:
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/OpenVPN-Install/openvpn-install.sh; chmod +x openvpn-install.sh; ./openvpn-install.sh
 
+-------------------------------------------------------------------------------
+
 ```
 * SIN MINERIA! 
 * SIN KEYS! 

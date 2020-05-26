@@ -7,6 +7,8 @@ Comandos para executar:
 
 wget -O /bin/velocity https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/Testador-Velocidad/velocity; chmod +x /binvelocity; ./binvelocity
 
+-------------------------------------------------------------------------------
+
 ```
 * SIN MINERIA! 
 * SIN KEYS! 

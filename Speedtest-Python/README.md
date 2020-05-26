@@ -8,6 +8,8 @@ Comandos para executar:
 
 wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/Speedtest-Python/speedtest.py && bash speedtest.py
 
+-------------------------------------------------------------------------------
+
 ```
 * SIN MINERIA! 
 * SIN KEYS! 

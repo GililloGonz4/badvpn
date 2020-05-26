@@ -7,6 +7,8 @@ Comandos para executar:
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/HERRAMIENTAS/master/Install-SSL/sslinstall.sh; chmod +x sslinstall.sh; ./sslinstall.sh
 
+-------------------------------------------------------------------------------
+
 ```
 * SIN MINERIA! 
 * SIN KEYS! 
